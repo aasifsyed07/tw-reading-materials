@@ -1,31 +1,19 @@
-# tw-reading-materials
 
-Reading materials for dev interview preparation
+# tw-reading-materials  
 
-#### Recommended reading ####
+#### Who we are ... ####
+> Rooted in a culture of learning and sharing, we believe that knowledge should be accessible for all. We are committed to improving the tech industry and are passionate about sharing our expertise across technology, business, and culture. 
+> (Source: TW Insights)
 
+This repository aims to provide a guided list of reading resources for someone aspiring to be a passionate techie and a Thoughtworker.
 
-* Object-Oriented Analysis and Design with Applications (3rd Edition) (by Grady Booch)
+#### What do we have for you ? ####
 
-* Domain-Driven Design: Tackling Complexity in the Heart of Software (by Eric Evans)
-
-* Refactoring: Improving the Design of Existing Code (by Martin Fowler, Kent Beck, etc)
-
-* Clean Code: A Handbook of Agile Software Craftsmanship (by Robert C. Martin)
-
-* Test Driven Development: By Example (by Kent Beck)
+We have lined up some resources for application developer aspirants.
 
 
-#### Nice to read ####
 
-
-* Refactoring to Patterns (by Joshua Kerievsky)
-
-* Head First Object-Oriented Analysis and Design (by David West)
-
-* Code Complete: A Practical Handbook of Software Construction, Second Edition (by Steve McConnell)
-
-* Design Patterns: Elements of Reusable Object-Oriented Software (by Erich Gamma, etc)
+*Disclaimer: This is a personal contribution, and only the contributors are responsible for the contents. Please reach out to us if got any feedback.*
 
 #### Applying to Thoughtworks ####
 
